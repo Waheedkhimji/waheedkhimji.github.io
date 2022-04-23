@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 import { colors } from 'styles/colors';
 
-import { Routes, Route, BrowserRouter, Navigate } from 'react-router-dom';
+import { Routes, Route, HashRouter, Navigate } from 'react-router-dom';
 import { Lifestyle } from 'Pages/lifestyle';
 import { Portrait } from 'Pages/portrait';
 import { Landscape } from 'Pages/landscape';
@@ -33,7 +33,7 @@ function App() {
   return (
     <Content>
     <Container>
-      <BrowserRouter>
+      <HashRouter>
       <Header/>
         <Routes>
           <Route path="/lifestyle" element={<Lifestyle />}/>
@@ -43,7 +43,7 @@ function App() {
           <Route path="/prints" element={<Prints />}/>
           <Route path="/" element={<Navigate replace to="/lifestyle" />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </Container></Content>
   );
 }
