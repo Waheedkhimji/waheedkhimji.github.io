@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 import { colors } from 'styles/colors';
 
-import { Routes, Route, BrowserRouter } from 'react-router-dom';
+import { Routes, Route, BrowserRouter, Navigate } from 'react-router-dom';
 import { Lifestyle } from 'Pages/lifestyle';
 import { Portrait } from 'Pages/portrait';
 import { Landscape } from 'Pages/landscape';
@@ -83,6 +83,7 @@ function App() {
           <Route path="/landscape" element={<Landscape />}/>
           <Route path="/about" element={<About />}/>
           <Route path="/prints" element={<Prints />}/>
+          <Route path="/" element={<Navigate replace to="/lifestyle" />} />
         </Routes>
       </BrowserRouter>
     </Container></Content>
