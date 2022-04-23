@@ -1,0 +1,133 @@
+{
+  "Skills": [
+    {
+      "skill": "Front-End Web",
+      "text": "ReactJS, Redux, React Native, TypeScript, CSS"
+    },
+    {
+      "skill": "Back-End Web",
+      "text": "Python, REST API, NodeJS, MySQL"
+    },
+    {
+      "skill": "Agile",
+      "text": "Scrum, Daily Standups, Retro, Sprint Demos and Planning"
+    },
+    {
+      "skill": "Tools",
+      "text": "Git, Lint, Webpack"
+    }
+  ],
+  "Education": [
+    {
+      "title": "High School - SATEC @ WA Porter (Enriched Program for Computer Science)",
+      "subtitle": "Scarborough Academy of Technological, Environmental and Computer Education | 2019 - current",
+      "text": []
+    }
+  ],
+  "Work Experience": [
+    {
+      "title": "WireBuddy (Internship)",
+      "subtitle": "Full Stack Software Developer | December 2019 - Current",
+      "text": [
+        "Working with a team of Senior Developers to create the WireBuddy app using ReactJS, Redux, TypeScript, and Styled Components. WireBuddy is a Web & Mobile Application for Professionals such as Electricians to run their day-to-day business, e.g. Send Quotes, Track Jobs, Book Calendar events, and Manage Invoices & Payments.",
+        "Designing and developing application components for the Web app from the ground up, e.g. Users, Customers, Calendar, and Billing, using Redux to manage app state",
+        "Integrated the Front-End UI application to the serverside components abstracting backend database using a RESTful API",
+        "Created Back-End API Endpoints using Python that handles storing of data using MySQL and testing.",
+        "Involved in completing software development lifecycles - Development, Integration, Code reviews, Testing and merging of feature branches into the master branch.",
+        "Working in pair programming, Daily Scrum calls and code reviews."
+      ]
+    }
+  ],
+  "Achievement and Awards": [
+    {
+      "title": "Principals Award 2019",
+      "subtitle": "During School’s annual graduation ceremony for the best academic achievement in the school"
+    },
+    {
+      "title": "Captain of Robotics Team",
+      "subtitle": "Toronto Level and Provincial level"
+    }
+  ],
+  "Courses": [
+    {
+      "title": "Udemy - React and Redux",
+      "subtitle": "Modern React with Redux",
+      "text": [
+        "Built and tested web-applications with React and Redux",
+        "Used many libraries such as Webpack"
+      ]
+    },
+    {
+      "title": "Udemy - JavaScript",
+      "subtitle": "The Complete JavaScript Course",
+      "text": [
+        "Completed Entire Course Learning Fundamentals, Modern ES6, Asynchronus Java and how to build multiple real world projects.",
+        "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc"
+      ]
+    },
+    {
+      "title": "Udemy - NodeJS",
+      "subtitle": "The Complete Node.js Developer Course",
+      "text": [
+        "Built and tested a real-world web application using NodeJS, Express."
+      ]
+    },
+    {
+      "title": "Udemy - TypeScript",
+      "subtitle": "Understanding TypeScript - 2020 Edition",
+      "text": [
+        "Using TypeScript and its features like Types, ES6 Support, Classes, Modules, Interfaces etc."
+      ]
+    },
+    {
+      "title": "Treehouse – Git",
+      "subtitle": "Introduction to Git",
+      "text": [
+        "Competed course on git basics like navigating through branches and folders, commit your work and upload your projects to GitHub."
+      ]
+    },
+    {
+      "title": "Pluralsight – MySQL",
+      "subtitle": "MySQL Fundamentals & MySQL Fundamentals Part 2",
+      "text": [
+        "Fundamentals of MySQL, including how to install MySQL as well as write basic data retrieval and data modification queries. Part 2 includes topics like, stored procedures & user-defined functions, subqueries & joins, views and events & triggers "
+      ]
+    },
+    {
+      "title": "Treehouse – Front End Web Development Track",
+      "subtitle": "Front-End Web Development using JavaScript, HTML and CSS",
+      "text": [
+        "JavaScript - Language Fundamentals, Objects and Types, Node.js, jQuery Basics",
+        "CSS - Responsive Layout, Flexbox, Selectors, Bootstrap 4 Basics"
+      ]
+    },
+    {
+      "title": "Treehouse – Python",
+      "subtitle": "Python Basics",
+      "text": [
+        "Covering topics such as, Fundamental programming concepts, Input and Output, Conditional branching, Loops, Exception handling"
+      ]
+    },
+    {
+      "title": "Udemy - SLR Photography",
+      "subtitle": "Beginner Canon Digital SLR (DSLR) Photography",
+      "text": [
+        "SLR walkthrough, Photography Fundamentals, explaining how to use shutter speed, aperture, zoom and ISO best for which type of picture you want to take.."
+      ]
+    }
+  ],
+  "Volunteer Experience": [
+    {
+      "title": "Bowmore Public School",
+      "subtitle": "Code Workshop | May 2016",
+      "text": [
+        "Led Coding Workshop for Grade 4 and 5 students, teaching them programming concepts using Code.org®"
+      ]
+    },
+    {
+      "title": "Syle Network",
+      "subtitle": "Assisting Slye Network plan and execute a community service fair  held at SATEC @ WA Porter - October 2020",
+      "text": []
+    }
+  ]
+}
