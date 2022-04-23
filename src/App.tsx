@@ -29,48 +29,6 @@ const Container = styled.div`
   `)}
 `;
 
-const Column = styled.div`
-display: flex;
-flex-direction: column;
-flex: 3;
-justify-content: center;
-align-items: flex-start;
-`;
-
-const Subtitle = styled.h4`
-color: ${colors.white};
-font-weight: lighter;
-margin: 0;
-font-size: 25px;
-text-align: center;
-width: 100%;
-
-${smallTabletMQ(`
-  font-size: 16px;
-  margin: 15px 0 5px 0;
-`)}
-
-${largeMobileMQ(`
-  font-size: 16px;
-`)}
-`;
-
-const HeaderContent = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-`;
-
-const IconRow = styled.div`
-padding-top: 20px;
-align-self: start;
-
-${smallTabletMQ(`
-padding-top: 0;
-`)}
-`;
-
 function App() {
   return (
     <Content>
