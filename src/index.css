@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: 'Encode Sans', sans-serif;
+  font-family: antialiased;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   position: absolute;

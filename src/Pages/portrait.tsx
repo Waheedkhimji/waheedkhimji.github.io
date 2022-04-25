@@ -6,31 +6,6 @@ import { largeMobileMQ } from 'styles/breakpoints';
 import { photos } from 'Galleries/PortraitGallery';
 import Gallery from 'react-photo-gallery';
 
-const Title = styled.h4`
-  color: ${colors.white};
-  margin: 15px 0 5px 0;
-`;
-
-const Subtitle = styled.h5`
-  color: ${colors.grey};
-  margin: 3px 0;
-`;
-
-const WorkExperienceContainer = styled.div`
-  display: flex;
-  flex-direction: row;
-
-  ul {
-    ${largeMobileMQ(`
-        padding-inline-start: 15px;
-    `)}
-  }
-
-  li {
-    margin-bottom: 15px;
-  }
-`;
-
 const ImageContainer = styled.div`
   margin: 0 40px;
 `;
@@ -38,12 +13,17 @@ const ImageContainer = styled.div`
 const ImageGallery = styled(Gallery)`
   width: 100%;
   display: block;
+
+  .img {
+    width: 20%;
+    height: auto;
+  }
 `;
 
 export const Portrait: React.FC = () => {
   return (
     <ImageContainer>
-      <ImageGallery photos={photos} margin={10} />;
+      <ImageGallery photos={photos} margin={10}/>;
     </ImageContainer>
   )
 };

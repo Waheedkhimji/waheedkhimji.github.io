@@ -13,6 +13,7 @@ export const photos = [
       src: NajimPortrait1,
       width: 4000,
       height: 6000,
+      size: 1000,
     },
     {
       src: NajimPortrait2,

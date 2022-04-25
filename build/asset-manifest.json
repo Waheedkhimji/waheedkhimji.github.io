@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da5b61ef.css",
-    "main.js": "/static/js/main.48860ffe.js",
+    "main.css": "/static/css/main.c4641afc.css",
+    "main.js": "/static/js/main.908840b9.js",
     "static/media/NajimPortrait3.jpg": "/static/media/NajimPortrait3.b30ec7ad212966fec700.jpg",
     "static/media/Tims4.jpg": "/static/media/Tims4.1546c63023f5a35c09e4.jpg",
     "static/media/Tims2.jpg": "/static/media/Tims2.310723a1e008e17d746b.jpg",
@@ -14,15 +14,16 @@
     "static/media/img3.jpeg": "/static/media/img3.5e1f3b731b1b76bbde00.jpeg",
     "static/media/img1.webp": "/static/media/img1.d31715c4dcf90ab0673a.webp",
     "static/media/img4.jpeg": "/static/media/img4.cacf785ac3acbc4c78c7.jpeg",
+    "static/media/wk-logo.jpg": "/static/media/wk-logo.2dac9756f5f16b9ab493.jpg",
     "static/media/img2.jpeg": "/static/media/img2.a579c7b2bd9b5ae7e358.jpeg",
-    "static/media/linkedin.png": "/static/media/linkedin.91b9a068d7e95601c6a3.png",
+    "static/media/instagram.png": "/static/media/instagram.ce307cbd5c71c42fa503.png",
     "static/media/phone-outline.png": "/static/media/phone-outline.7a0f42e2a856512d6130.png",
     "index.html": "/index.html",
-    "main.da5b61ef.css.map": "/static/css/main.da5b61ef.css.map",
-    "main.48860ffe.js.map": "/static/js/main.48860ffe.js.map"
+    "main.c4641afc.css.map": "/static/css/main.c4641afc.css.map",
+    "main.908840b9.js.map": "/static/js/main.908840b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.da5b61ef.css",
-    "static/js/main.48860ffe.js"
+    "static/css/main.c4641afc.css",
+    "static/js/main.908840b9.js"
   ]
 }
