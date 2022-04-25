@@ -1,57 +1,27 @@
-import img1 from './assets/img1.webp'
-import img2 from './assets/img2.jpeg'
-import img3 from './assets/img3.jpeg'
-import img4 from './assets/img4.jpeg'
+import Subway1 from './assets/Subway1.jpg'
+import Underground from './assets/Underground.jpg'
+import CnTower1 from './assets/CnTower1.jpg'
+import Tesla from './assets/Tesla.jpg'
 
 export const photos = [
     {
-      src: img1,
-      width: 1020,
-      height: 800,
-    },
-    {
-      src: img2,
+      src: Subway1,
       width: 4000,
       height: 6000,
     },
     {
-      src: img3,
+      src: Underground,
       width: 4000,
       height: 6000,
     },
     {
-      src: img4,
+      src: CnTower1,
       width: 4000,
       height: 6000,
     },
     {
-      src: img1,
-      width: 4000,
-      height: 6000,
-    },
-    {
-      src: img2,
-      width: 1020,
-      height: 800,
-    },
-    {
-      src: img1,
-      width: 4000,
-      height: 6000,
-    },
-    {
-      src: img2,
-      width: 4000,
-      height: 6000,
-    },
-    {
-      src: img1,
-      width: 1020,
-      height: 800,
-    },
-    {
-      src: img2,
-      width: 1020,
-      height: 800,
+      src: Tesla,
+      width: 6000,
+      height: 4000,
     },
   ];

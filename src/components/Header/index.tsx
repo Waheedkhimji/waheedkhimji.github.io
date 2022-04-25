@@ -84,7 +84,7 @@ const StyledLink = styled(NavLink)<{ isActive: boolean }>`
 const Logo = styled.img`
 	width: 150px;
 	mix-blend-mode: lighten; 
-	position: fixed;
+    position: absolute;
 `;
 
 export const Header: React.FC = () => {
