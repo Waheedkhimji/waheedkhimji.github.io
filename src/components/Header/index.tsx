@@ -64,12 +64,6 @@ const Subtitle = styled.h4`
     width: 100%;
 `;
 
-const Row = styled.div`
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-`;
-
 const TitleContainer = styled.div`
 	flex-direction: row;
 	margin-bottom: 25px;

@@ -17,11 +17,6 @@ const Title = styled.h2`
   `)}
 `;
 
-const Subtitle = styled.h5`
-  color: ${colors.grey};
-  margin: 3px 0;
-`;
-
 const Container = styled.div`
   display: flex;
   flex-direction: row;

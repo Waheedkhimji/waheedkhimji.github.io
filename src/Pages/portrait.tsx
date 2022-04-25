@@ -1,8 +1,5 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import { colors } from 'styles/colors';
-
-import { largeMobileMQ } from 'styles/breakpoints';
 import { photos } from 'Galleries/PortraitGallery';
 import Gallery from 'react-photo-gallery';
 

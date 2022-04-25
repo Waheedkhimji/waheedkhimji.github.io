@@ -2,8 +2,6 @@ import * as React from 'react';
 import styled from 'styled-components';
 import { colors } from 'styles/colors';
 
-import { largeMobileMQ } from 'styles/breakpoints';
-
 const Title = styled.h2`
   color: ${colors.lightGrey};
   margin: 25px 0 5px 0;
