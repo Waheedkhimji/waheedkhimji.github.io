@@ -98,11 +98,11 @@ export const Header: React.FC = () => {
 					<Subtitle>Photographer</Subtitle>
 				</TitleContainer>
 				<EndColumn>
-					<StyledLink to="/lifestyle" isActive={location.pathname.includes("/lifestyle")}>
-							Lifestyle
-					</StyledLink>
 					<StyledLink to="/portrait" isActive={location.pathname.includes("/portrait")}>
 							Portrait
+					</StyledLink>
+					<StyledLink to="/lifestyle" isActive={location.pathname.includes("/lifestyle")}>
+							Lifestyle
 					</StyledLink>
 					<StyledLink to="/landscape" isActive={location.pathname.includes("/landscape")}>
 							Landscape

@@ -6,22 +6,22 @@ import Tesla from './assets/Tesla.jpg'
 export const photos = [
     {
       src: Subway1,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: Underground,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: CnTower1,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: Tesla,
-      width: 6000,
-      height: 4000,
+      width: 3000,
+      height: 2000,
     },
   ];
