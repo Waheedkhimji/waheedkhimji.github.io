@@ -124,7 +124,7 @@ export const About: React.FC = () => {
               <WhiteIcon src={email} /> 
               <InfoDetail>waheedkhimji@yahoo.com</InfoDetail>
             </InfoContainer>
-            <LinkInfoContainer href='https://linkedin.com/in/waheed-khimji-26435611a' target="_blank">
+            <LinkInfoContainer href='https://linkedin.com/in/waheedkhimji' target="_blank">
               <WhiteIcon src={linkedin} /> 
               <InfoDetail>linkedin.com/waheedkhimji</InfoDetail>
             </LinkInfoContainer>
