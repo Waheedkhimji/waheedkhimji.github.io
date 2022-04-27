@@ -30,6 +30,7 @@ import {
   font-weight: normal;
   font-size: 14px;
   color: ${colors.lightGrey};
+  flex: 1;
  `;
 
 const Nav = styled.div`
@@ -44,12 +45,13 @@ const Nav = styled.div`
   `)}
 `;
 
-const Title = styled.h1`
+const Title = styled.h2`
 	color: ${colors.white};
 	align-self: center;
   text-align: center;
 	width: 100%;
   margin: 0 0 5px 0;
+  flex: 2;
 `;
 
 const Menu = styled.div<{isOpen: boolean}>`
@@ -63,6 +65,9 @@ const Menu = styled.div<{isOpen: boolean}>`
     overflow: hidden;
     flex-direction: column;
     transition: max-height 0.3s ease-in;
+    border-bottom: grey solid 1px;
+    width: 100%;
+    padding-bottom: 5px;
   `)};
 
   ${({ isOpen }) => isOpen ? `
@@ -85,6 +90,7 @@ const Hamburger = styled.div`
     display: flex;
     flex-direction: column;
     cursor: pointer;
+    align-items: end;
   `)}
 `;
 
@@ -100,10 +106,15 @@ const MobileMenuContainer = styled.div`
   `)}
 `;
 
+const LogoContainer = styled.div`
+  display: flex;
+  flex: 1;
+`;
+
 const Logo = styled.img`
-  width: 50px;
+  max-width: 50px;
   align-self: center;
-  height: 100%;
+  height: auto;
 	mix-blend-mode: lighten; 
 `;
 
@@ -115,7 +126,9 @@ export const HamburgerMenu = () => {
   return (
     <Nav>
       <MobileMenuContainer>
-        <Logo src={wkLogo} />
+        <LogoContainer>
+          <Logo src={wkLogo} />
+        </LogoContainer>
         <Title>Waheed Khimji</Title>
 
         <HamburgerContainer>

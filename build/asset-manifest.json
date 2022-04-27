@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4641afc.css",
-    "main.js": "/static/js/main.064ed2d4.js",
+    "main.js": "/static/js/main.a8619e44.js",
     "static/media/NajimPortrait3.jpg": "/static/media/NajimPortrait3.b30ec7ad212966fec700.jpg",
     "static/media/Tims4.jpg": "/static/media/Tims4.1546c63023f5a35c09e4.jpg",
     "static/media/Tims2.jpg": "/static/media/Tims2.310723a1e008e17d746b.jpg",
@@ -26,18 +26,15 @@
     "static/media/phone-outline.png": "/static/media/phone-outline.7a0f42e2a856512d6130.png",
     "index.html": "/index.html",
     "main.c4641afc.css.map": "/static/css/main.c4641afc.css.map",
-<<<<<<< HEAD
-    "main.48346985.js.map": "/static/js/main.48346985.js.map"
+    "main.a8619e44.js.map": "/static/js/main.a8619e44.js.map"
   },
   "entrypoints": [
     "static/css/main.c4641afc.css",
-    "static/js/main.48346985.js"
-=======
+    "static/js/main.a8619e44.js"
     "main.064ed2d4.js.map": "/static/js/main.064ed2d4.js.map"
   },
   "entrypoints": [
     "static/css/main.c4641afc.css",
     "static/js/main.064ed2d4.js"
->>>>>>> e86ec7b47d5da2799ae4d75b3de965f39184fd9a
   ]
 }
