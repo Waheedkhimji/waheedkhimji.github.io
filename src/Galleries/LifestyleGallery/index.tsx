@@ -10,8 +10,8 @@ import Rheapool from './assets/Rheapool.jpg'
 export const photos = [
     {
       src: Subway1,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src:Fiazpool,
@@ -20,8 +20,8 @@ export const photos = [
     },
     {
       src: Underground,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: Rheapool,
@@ -30,8 +30,8 @@ export const photos = [
     },
     {
       src: CnTower1,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: Jeeyatrain,
@@ -40,8 +40,8 @@ export const photos = [
     },
     {
       src: Tesla,
-      width: 6000,
-      height: 4000,
+      width: 3000,
+      height: 2000,
     },
     {
       src: Aashitapool,

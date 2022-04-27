@@ -11,23 +11,23 @@ export const photos = [
     },
     {
       src: img2,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: img3,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: img4,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: img1,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: img2,
@@ -36,13 +36,13 @@ export const photos = [
     },
     {
       src: img1,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: img2,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: img1,

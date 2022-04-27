@@ -37,12 +37,12 @@ function App() {
       <Header/>
       <HamburgerMenu /> 
         <Routes>
-          <Route path="/lifestyle" element={<Lifestyle />}/>
           <Route path="/portrait" element={<Portrait />}/>
+          <Route path="/lifestyle" element={<Lifestyle />}/>
           <Route path="/landscape" element={<Landscape />}/>
           <Route path="/about" element={<About />}/>
           <Route path="/prints" element={<Prints />}/>
-          <Route path="/" element={<Navigate replace to="/lifestyle" />} />
+          <Route path="/" element={<Navigate replace to="/portrait" />} />
         </Routes>
       </HashRouter>
     </Container></Content>

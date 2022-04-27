@@ -44,8 +44,7 @@ const ContactContainer = styled.div`
   `)}
 `;
 
-const IconContainer = styled.div`
-  flex: 1;
+const DetailsContainer = styled.div`
   display: flex;
   flex-direction: column;
 `;
@@ -56,9 +55,16 @@ const ContactInfoContainer = styled.div`
 `;
 
 const InfoContainer = styled.div`
-  flex: 3;
   display: flex;
-  flex-direction: column;
+  padding-bottom: 25px;
+  flex-direction: row;
+`;
+
+const LinkInfoContainer = styled.a`
+  display: flex;
+  padding-bottom: 25px;
+  flex-direction: row;
+  text-decoration: white underline 1px;
 `;
 
 const AboutContainer = styled.div`
@@ -69,19 +75,17 @@ const AboutContainer = styled.div`
 
 const InfoDetail = styled.div`
   color: white;
+  padding-left: 40px;
+  flex: 3;
   font-size: 18px;
-  margin-bottom: 30px;
 `;
 
 const Icon = styled.img`
   width: 20px;
-  padding-bottom: 30px;
-  filter: invert(1);
 `;
 
-const WhiteIcon = styled.img`
-  width: 25px;
-  padding-bottom: 25px;
+const WhiteIcon = styled(Icon)`
+  filter: invert(1);
 `;
 
 export const About: React.FC = () => {
@@ -107,18 +111,24 @@ export const About: React.FC = () => {
       <ContactContainer>
         <Title>Contact</Title>
         <ContactInfoContainer>
-          <IconContainer>
-            <WhiteIcon src={instagram} /> 
-            <Icon src={phone} /> 
-            <Icon src={email} /> 
-            <Icon src={linkedin} /> 
-          </IconContainer>
-          <InfoContainer>
-            <InfoDetail>@wk_studi0s</InfoDetail>
-            <InfoDetail>(416)837-0033</InfoDetail>
-            <InfoDetail>waheedkhimji@yahoo.com</InfoDetail>
-            <InfoDetail>linkedin.com/waheedkhimji</InfoDetail>
-          </InfoContainer>
+          <DetailsContainer>
+            <LinkInfoContainer  href='https://instagram.com/wk_studi0s' target="_blank">
+              <Icon src={instagram} /> 
+              <InfoDetail>@wk_studi0s</InfoDetail>
+            </LinkInfoContainer>
+            <InfoContainer>
+              <WhiteIcon src={phone} /> 
+              <InfoDetail>(416)837-0033</InfoDetail>
+            </InfoContainer>
+            <InfoContainer>
+              <WhiteIcon src={email} /> 
+              <InfoDetail>waheedkhimji@yahoo.com</InfoDetail>
+            </InfoContainer>
+            <LinkInfoContainer href='https://linkedin.com/in/waheedkhimji' target="_blank">
+              <WhiteIcon src={linkedin} /> 
+              <InfoDetail>linkedin.com/waheedkhimji</InfoDetail>
+            </LinkInfoContainer>
+          </DetailsContainer>
         </ContactInfoContainer>
       </ContactContainer>
     </Container>

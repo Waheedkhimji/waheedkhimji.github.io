@@ -14,18 +14,18 @@ import TheGirls from './assets/TheGirls.jpg'
 export const photos = [
   {
     src: NajimPortrait1,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Ishaan1,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: RandomGuy,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: TheGirls,
@@ -34,42 +34,42 @@ export const photos = [
   },
   {
     src: NajimPortrait2,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Tims2,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: NajimPortrait3,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Tims3,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: NajimPortrait5,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Tims1,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: NajimPortrait4,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Tims4,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   ];
