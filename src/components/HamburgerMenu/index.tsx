@@ -150,10 +150,6 @@ export const HamburgerMenu = () => {
         onClick={() => setIsOpen(false)}>
             Portrait
         </StyledLink>
-        <StyledLink to="/landscape" isActive={location.pathname.includes("/landscape")}
-        onClick={() => setIsOpen(false)}>
-            Landscape
-            </StyledLink>
         <StyledLink to="/about" isActive={location.pathname.includes("/about")}
         onClick={() => setIsOpen(false)}>
             About

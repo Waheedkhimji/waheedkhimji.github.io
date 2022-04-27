@@ -104,9 +104,6 @@ export const Header: React.FC = () => {
 					<StyledLink to="/lifestyle" isActive={location.pathname.includes("/lifestyle")}>
 							Lifestyle
 					</StyledLink>
-					<StyledLink to="/landscape" isActive={location.pathname.includes("/landscape")}>
-							Landscape
-							</StyledLink>
 					<StyledLink to="/about" isActive={location.pathname.includes("/about")}>
 							About
 					</StyledLink>

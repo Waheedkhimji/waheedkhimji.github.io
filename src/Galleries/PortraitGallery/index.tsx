@@ -9,6 +9,7 @@ import Tims3 from './assets/Tims3.jpg'
 import Tims4 from './assets/Tims4.jpg'
 import Ishaan1 from './assets/Ishaan1.jpg'
 import RandomGuy from './assets/RandomGuy.jpg'
+import TheGirls from './assets/TheGirls.jpg'
 
 export const photos = [
   {
@@ -25,6 +26,11 @@ export const photos = [
     src: RandomGuy,
     width: 2000,
     height: 3000,
+  },
+  {
+    src: TheGirls,
+    width: 4000,
+    height: 6000,
   },
   {
     src: NajimPortrait2,

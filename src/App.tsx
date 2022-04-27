@@ -6,7 +6,6 @@ import { colors } from 'styles/colors';
 import { Routes, Route, HashRouter, Navigate } from 'react-router-dom';
 import { Lifestyle } from 'Pages/lifestyle';
 import { Portrait } from 'Pages/portrait';
-import { Landscape } from 'Pages/landscape';
 import { About } from 'Pages/about';
 import { Prints } from 'Pages/prints';
 import { HamburgerMenu } from 'components/HamburgerMenu'
@@ -39,7 +38,6 @@ function App() {
         <Routes>
           <Route path="/portrait" element={<Portrait />}/>
           <Route path="/lifestyle" element={<Lifestyle />}/>
-          <Route path="/landscape" element={<Landscape />}/>
           <Route path="/about" element={<About />}/>
           <Route path="/prints" element={<Prints />}/>
           <Route path="/" element={<Navigate replace to="/portrait" />} />
