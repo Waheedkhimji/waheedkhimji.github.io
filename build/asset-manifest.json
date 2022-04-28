@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c4641afc.css",
-    "main.js": "/static/js/main.76eab18f.js",
+    "main.js": "/static/js/main.2550c9e2.js",
     "static/media/Fiazpool.jpg": "/static/media/Fiazpool.3dd4d7b07ff89fb0edd8.jpg",
     "static/media/TheGirls.jpg": "/static/media/TheGirls.9977fed1cf9814f3c9bd.jpg",
     "static/media/Jeeyatrain.jpg": "/static/media/Jeeyatrain.59f28c84f5a15bcd384d.jpg",
@@ -23,6 +23,7 @@
     "static/media/RandomGuy.jpg": "/static/media/RandomGuy.4c46119fd0f3591f22de.jpg",
     "static/media/Tims1.jpg": "/static/media/Tims1.cd6d577be0537fcf7d23.jpg",
     "static/media/CnTower1.jpg": "/static/media/CnTower1.fd0f339d92af333849c2.jpg",
+    "static/media/TTC1.jpg": "/static/media/TTC1.5d506833919da8810f73.jpg",
     "static/media/Subway1.jpg": "/static/media/Subway1.f070c0071a2c4abb411b.jpg",
     "static/media/NajimPortrait1.jpg": "/static/media/NajimPortrait1.ef67cd5d1209c42b59d9.jpg",
     "static/media/wk-logo.jpg": "/static/media/wk-logo.2dac9756f5f16b9ab493.jpg",
@@ -30,10 +31,10 @@
     "static/media/phone-outline.png": "/static/media/phone-outline.7a0f42e2a856512d6130.png",
     "index.html": "/index.html",
     "main.c4641afc.css.map": "/static/css/main.c4641afc.css.map",
-    "main.76eab18f.js.map": "/static/js/main.76eab18f.js.map"
+    "main.2550c9e2.js.map": "/static/js/main.2550c9e2.js.map"
   },
   "entrypoints": [
     "static/css/main.c4641afc.css",
-    "static/js/main.76eab18f.js"
+    "static/js/main.2550c9e2.js"
   ]
 }

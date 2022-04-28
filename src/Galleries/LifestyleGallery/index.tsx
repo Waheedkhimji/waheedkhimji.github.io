@@ -32,7 +32,7 @@ export const photos = [
     },
     {
       src: TTC1,
-      width: 3000,
-      height: 2000,
+      width: 2000,
+      height: 3000,
     },
   ];
