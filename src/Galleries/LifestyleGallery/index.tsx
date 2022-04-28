@@ -15,8 +15,8 @@ export const photos = [
     },
     {
       src:Fiazpool,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: Underground,
@@ -25,8 +25,8 @@ export const photos = [
     },
     {
       src: Rheapool,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: CnTower1,
@@ -35,8 +35,8 @@ export const photos = [
     },
     {
       src: Jeeyatrain,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
     {
       src: Tesla,
@@ -45,7 +45,7 @@ export const photos = [
     },
     {
       src: Aashitapool,
-      width: 4000,
-      height: 6000,
+      width: 2000,
+      height: 3000,
     },
   ];

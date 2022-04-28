@@ -29,8 +29,8 @@ export const photos = [
   },
   {
     src: TheGirls,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: NajimPortrait2,
