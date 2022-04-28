@@ -10,6 +10,9 @@ import Tims4 from './assets/Tims4.jpg'
 import Ishaan1 from './assets/Ishaan1.jpg'
 import RandomGuy from './assets/RandomGuy.jpg'
 import TheGirls from './assets/TheGirls.jpg'
+import Aashitapool from './assets/Aashitapool.jpg'
+import Fiazpool from './assets/Fiazpool.jpg'
+import Rheapool from './assets/Rheapool.jpg'
 
 export const photos = [
   {
@@ -43,9 +46,19 @@ export const photos = [
     height: 3000,
   },
   {
+    src: Rheapool,
+    width: 4000,
+    height: 6000,
+  },
+  {
     src: NajimPortrait3,
     width: 2000,
     height: 3000,
+  },
+  {
+    src: Aashitapool,
+    width: 4000,
+    height: 6000,
   },
   {
     src: Tims3,
@@ -61,6 +74,11 @@ export const photos = [
     src: Tims1,
     width: 2000,
     height: 3000,
+  },
+  {
+    src:Fiazpool,
+    width: 4000,
+    height: 6000,
   },
   {
     src: NajimPortrait4,
