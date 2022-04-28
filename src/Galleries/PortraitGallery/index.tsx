@@ -1,25 +1,24 @@
-import NajimPortrait1 from './assets/NajimPortrait1.jpg'
-import NajimPortrait2 from './assets/NajimPortrait2.jpg'
-import NajimPortrait3 from './assets/NajimPortrait3.jpg'
-import NajimPortrait4 from './assets/NajimPortrait4.jpg'
-import NajimPortrait5 from './assets/NajimPortrait5.jpg'
-import Tims1 from './assets/Tims1.jpg'
-import Tims2 from './assets/Tims2.jpg'
-import Tims3 from './assets/Tims3.jpg'
-import Tims4 from './assets/Tims4.jpg'
-import Ishaan1 from './assets/Ishaan1.jpg'
-import RandomGuy from './assets/RandomGuy.jpg'
-import TheGirls from './assets/TheGirls.jpg'
-import Aashitapool from './assets/Aashitapool.jpg'
-import Fiazpool from './assets/Fiazpool.jpg'
-import Rheapool from './assets/Rheapool.jpg'
-import Zishan1 from './assets/Zishan1.jpg'
-import Zishan2 from './assets/Zishan2.jpg'
-import Zishan3 from './assets/Zishan3.jpg'
-
+import Najim1 from './assets/Najim1.webp'
+import Najim2 from './assets/Najim2.webp'
+import Najim3 from './assets/Najim3.webp'
+import Najim4 from './assets/Najim4.webp'
+import Najim5 from './assets/Najim5.webp'
+import Tims1 from './assets/Tims1.webp'
+import Tims2 from './assets/Tims2.webp'
+import Tims3 from './assets/Tims3.webp'
+import Tims4 from './assets/Tims4.webp'
+import Ishaan1 from './assets/Ishaan1.webp'
+import RandomGuy from './assets/RandomGuy.webp'
+import TheGirls from './assets/TheGirls.webp'
+import Aashitapool from './assets/Aashitapool.webp'
+import Fiazpool from './assets/Fiazpool.webp'
+import Rheapool from './assets/Rheapool.webp'
+import Zishan1 from './assets/Zishan1.webp'
+import Zishan2 from './assets/Zishan2.webp'
+import Zishan3 from './assets/Zishan3.webp'
 export const photos = [
   {
-    src: NajimPortrait1,
+    src: Najim1,
     width: 2000,
     height: 3000,
   },
@@ -44,7 +43,7 @@ export const photos = [
     height: 3000,
   },
   {
-    src: NajimPortrait2,
+    src: Najim2,
     width: 2000,
     height: 3000,
   },
@@ -59,7 +58,7 @@ export const photos = [
     height: 6000,
   },
   {
-    src: NajimPortrait3,
+    src: Najim3,
     width: 2000,
     height: 3000,
   },
@@ -74,7 +73,7 @@ export const photos = [
     height: 3000,
   },
   {
-    src: NajimPortrait5,
+    src: Najim5,
     width: 2000,
     height: 3000,
   },
@@ -94,7 +93,7 @@ export const photos = [
     height: 6000,
   },
   {
-    src: NajimPortrait4,
+    src: Najim4,
     width: 2000,
     height: 3000,
   },

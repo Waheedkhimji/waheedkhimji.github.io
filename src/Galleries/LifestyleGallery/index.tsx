@@ -1,9 +1,9 @@
-import Subway1 from './assets/Subway1.jpg'
-import Underground from './assets/Underground.jpg'
-import CnTower1 from './assets/CnTower1.jpg'
-import Tesla from './assets/Tesla.jpg'
-import Jeeyatrain from './assets/Jeeyatrain.jpg'
-import TTC1 from './assets/TTC1.jpg'
+import Subway1 from './assets/Subway1.webp'
+import Underground from './assets/Underground.webp'
+import CnTower1 from './assets/CnTower1.webp'
+import Tesla from './assets/Tesla.webp'
+import Jeeyatrain from './assets/Jeeyatrain.webp'
+import TTC1 from './assets/TTC1.webp'
 export const photos = [
     {
       src: Subway1,
