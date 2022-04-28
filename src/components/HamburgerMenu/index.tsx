@@ -142,13 +142,13 @@ export const HamburgerMenu = () => {
       </MobileMenuContainer>
 
       <Menu isOpen={isOpen}>
-        <StyledLink to="/lifestyle" isActive={location.pathname.includes("/lifestyle")} 
-        onClick={() => setIsOpen(false)}>
-            Lifestyle
-        </StyledLink>
         <StyledLink to="/portrait" isActive={location.pathname.includes("/portrait")}
         onClick={() => setIsOpen(false)}>
             Portrait
+        </StyledLink>
+        <StyledLink to="/lifestyle" isActive={location.pathname.includes("/lifestyle")} 
+        onClick={() => setIsOpen(false)}>
+            Lifestyle
         </StyledLink>
         <StyledLink to="/about" isActive={location.pathname.includes("/about")}
         onClick={() => setIsOpen(false)}>
