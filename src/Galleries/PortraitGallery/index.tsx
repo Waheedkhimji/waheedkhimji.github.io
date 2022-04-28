@@ -13,6 +13,9 @@ import TheGirls from './assets/TheGirls.jpg'
 import Aashitapool from './assets/Aashitapool.jpg'
 import Fiazpool from './assets/Fiazpool.jpg'
 import Rheapool from './assets/Rheapool.jpg'
+import Zishan1 from './assets/Zishan1.jpg'
+import Zishan2 from './assets/Zishan2.jpg'
+import Zishan3 from './assets/Zishan3.jpg'
 
 export const photos = [
   {
@@ -27,6 +30,11 @@ export const photos = [
   },
   {
     src: RandomGuy,
+    width: 2000,
+    height: 3000,
+  },
+  {
+    src: Zishan2,
     width: 2000,
     height: 3000,
   },
@@ -71,6 +79,11 @@ export const photos = [
     height: 3000,
   },
   {
+    src: Zishan1,
+    width: 2000,
+    height: 3000,
+  },
+  {
     src: Tims1,
     width: 2000,
     height: 3000,
@@ -87,6 +100,11 @@ export const photos = [
   },
   {
     src: Tims4,
+    width: 2000,
+    height: 3000,
+  },
+  {
+    src: Zishan3,
     width: 2000,
     height: 3000,
   },
