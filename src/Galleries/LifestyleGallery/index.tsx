@@ -3,7 +3,7 @@ import Underground from './assets/Underground.jpg'
 import CnTower1 from './assets/CnTower1.jpg'
 import Tesla from './assets/Tesla.jpg'
 import Jeeyatrain from './assets/Jeeyatrain.jpg'
-
+import TTC1 from './assets/TTC1.jpg'
 export const photos = [
     {
       src: Subway1,
@@ -27,6 +27,11 @@ export const photos = [
     },
     {
       src: Tesla,
+      width: 3000,
+      height: 2000,
+    },
+    {
+      src: TTC1,
       width: 3000,
       height: 2000,
     },
