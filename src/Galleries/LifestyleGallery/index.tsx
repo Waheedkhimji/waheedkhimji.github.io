@@ -11,27 +11,11 @@ export const photos = [
       height: 3000,
     },
     {
-<<<<<<< HEAD
-=======
-      src:Fiazpool,
-      width: 2000,
-      height: 3000,
-    },
-    {
->>>>>>> 79c9190673d0b73ea39ae42cf3de0e58235cc435
       src: Underground,
       width: 2000,
       height: 3000,
     },
     {
-<<<<<<< HEAD
-=======
-      src: Rheapool,
-      width: 2000,
-      height: 3000,
-    },
-    {
->>>>>>> 79c9190673d0b73ea39ae42cf3de0e58235cc435
       src: CnTower1,
       width: 2000,
       height: 3000,
@@ -46,12 +30,4 @@ export const photos = [
       width: 3000,
       height: 2000,
     },
-<<<<<<< HEAD
-=======
-    {
-      src: Aashitapool,
-      width: 2000,
-      height: 3000,
-    },
->>>>>>> 79c9190673d0b73ea39ae42cf3de0e58235cc435
   ];
