@@ -16,6 +16,9 @@ import Rheapool from './assets/Rheapool.webp'
 import Zishan1 from './assets/Zishan1.webp'
 import Zishan2 from './assets/Zishan2.webp'
 import Zishan3 from './assets/Zishan3.webp'
+import Eugine1 from './assets/Eugine1.webp'
+import Eugine2 from './assets/Eugine2.webp'
+import Eugine3 from './assets/Eugine3.webp'
 export const photos = [
   {
     src: Najim1,
@@ -54,8 +57,8 @@ export const photos = [
   },
   {
     src: Rheapool,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Najim3,
@@ -63,9 +66,19 @@ export const photos = [
     height: 3000,
   },
   {
+    src: Eugine1,
+    width: 2000,
+    height: 3000,
+  },
+  {
     src: Aashitapool,
-    width: 4000,
-    height: 6000,
+    width: 2000,
+    height: 3000,
+  },
+  {
+    src: Eugine2,
+    width: 2000,
+    height: 3000,
   },
   {
     src: Tims3,
@@ -84,6 +97,11 @@ export const photos = [
   },
   {
     src: Tims1,
+    width: 2000,
+    height: 3000,
+  },
+  {
+    src: Eugine3,
     width: 2000,
     height: 3000,
   },
