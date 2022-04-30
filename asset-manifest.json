@@ -1,12 +1,32 @@
 {
   "files": {
     "main.css": "/static/css/main.c4641afc.css",
-    "main.js": "/static/js/main.8aff76ff.js",
+    "main.js": "/static/js/main.8f2a23cf.js",
+    "static/media/Life2.webp": "/static/media/Life2.a6cca8089d5b3e2ab11a.webp",
+    "static/media/Life4.webp": "/static/media/Life4.0c794ea4ebe84600714d.webp",
+    "static/media/Subway3.webp": "/static/media/Subway3.0a6486065f482cd9b226.webp",
+    "static/media/Life5.webp": "/static/media/Life5.295fd83023c38d1621a2.webp",
+    "static/media/Buildings.webp": "/static/media/Buildings.f9645461e36a9bca9206.webp",
+    "static/media/Life.webp": "/static/media/Life.38d204c2c3b943516635.webp",
     "static/media/Fiazpool.webp": "/static/media/Fiazpool.279f3007e19519f93b87.webp",
+    "static/media/Cntower3.webp": "/static/media/Cntower3.f42b163015c9c0ca5be1.webp",
     "static/media/Underground.webp": "/static/media/Underground.5a2be2ed5603fcaeec93.webp",
+    "static/media/Life7.webp": "/static/media/Life7.5dc6251b950142cf71ab.webp",
+    "static/media/Streetcar.webp": "/static/media/Streetcar.da4cf3aa978a5008440f.webp",
+    "static/media/Life3.webp": "/static/media/Life3.e960e311bec6748ddeb0.webp",
+    "static/media/William.webp": "/static/media/William.6d7fdf3e40608fae0d03.webp",
+    "static/media/Life8.webp": "/static/media/Life8.055fe1b778ad26cdddd8.webp",
+    "static/media/LongExposure.webp": "/static/media/LongExposure.6d1668ce388baa5fa736.webp",
+    "static/media/Life6.webp": "/static/media/Life6.9e7d3940cc54cd571a17.webp",
     "static/media/Aashitapool.webp": "/static/media/Aashitapool.4f53428287c318161a07.webp",
     "static/media/TheGirls.webp": "/static/media/TheGirls.5552f43e47b911d9a47f.webp",
     "static/media/Jeeyatrain.webp": "/static/media/Jeeyatrain.b3bc4145b63ed063e300.webp",
+    "static/media/Streetcar2.webp": "/static/media/Streetcar2.9b8f966ae03ed3955f95.webp",
+    "static/media/Life9.webp": "/static/media/Life9.b08e57c94159f78fea37.webp",
+    "static/media/Eugine2.webp": "/static/media/Eugine2.f7aad9ac58690c99e593.webp",
+    "static/media/Life10.webp": "/static/media/Life10.a299136621aed31f41b3.webp",
+    "static/media/Eugine1.webp": "/static/media/Eugine1.561405aa71cd123431e6.webp",
+    "static/media/Eugine3.webp": "/static/media/Eugine3.a318d75c7ad64cf7f22c.webp",
     "static/media/Najim3.webp": "/static/media/Najim3.b72418af014ad1a893b6.webp",
     "static/media/Zishan3.webp": "/static/media/Zishan3.c37494fb75a596873023.webp",
     "static/media/Tesla.webp": "/static/media/Tesla.cfb715fceb92512246ef.webp",
@@ -18,6 +38,7 @@
     "static/media/Ishaan1.webp": "/static/media/Ishaan1.db80a48e8bff6a350a0a.webp",
     "static/media/Tims2.webp": "/static/media/Tims2.2c641fd3f84b739257ea.webp",
     "static/media/Tims3.webp": "/static/media/Tims3.6d420adc1a000429b6fa.webp",
+    "static/media/Draketower.webp": "/static/media/Draketower.bc22ce4b42996fe31e60.webp",
     "static/media/RandomGuy.webp": "/static/media/RandomGuy.f395759f507b4d3eee44.webp",
     "static/media/Zishan2.webp": "/static/media/Zishan2.15d297a36f99e0928c66.webp",
     "static/media/Zishan1.webp": "/static/media/Zishan1.585e1230187d327f7a28.webp",
@@ -31,10 +52,10 @@
     "static/media/phone-outline.png": "/static/media/phone-outline.7a0f42e2a856512d6130.png",
     "index.html": "/index.html",
     "main.c4641afc.css.map": "/static/css/main.c4641afc.css.map",
-    "main.8aff76ff.js.map": "/static/js/main.8aff76ff.js.map"
+    "main.8f2a23cf.js.map": "/static/js/main.8f2a23cf.js.map"
   },
   "entrypoints": [
     "static/css/main.c4641afc.css",
-    "static/js/main.8aff76ff.js"
+    "static/js/main.8f2a23cf.js"
   ]
 }
