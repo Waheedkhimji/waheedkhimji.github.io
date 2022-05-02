@@ -6,6 +6,8 @@ import { largeMobileMQ } from 'styles/breakpoints';
 import { photos } from 'Galleries/LifestyleGallery';
 import Gallery from 'react-photo-gallery';
 
+import { smallTabletMQ } from 'styles/breakpoints';
+
 const Container = styled.div`
   flex-direction: row;
 
@@ -22,6 +24,9 @@ const Container = styled.div`
 
 const ImageContainer = styled.div`
   margin: 0 40px;
+  ${smallTabletMQ(`
+    margin: 0 15px;
+  `)}
 `;
 
 const ImageGallery = styled(Gallery)`
