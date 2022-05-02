@@ -95,12 +95,12 @@ export const About: React.FC = () => {
         <Title>About</Title>
         <AboutContainer>
         I am a sixteen year-old student who lives in Toronto, Ontario.
-        My background is East African, Although I am born in Canada. 
+        My background is East African, although I am born in Canada. 
         </AboutContainer>
         
           <AboutContainer>
           I am a very outdoorsy person. I play competivite Baseball and Vollyball. 
-        I love biking and I love exercise. I have been taking photos since I was 10, 
+        I love biking and I love to exercise. I have been taking photos since I was 10, 
         Taking photos has always been a big passion of mine, I love to capture moments in time 
         and preserve them for the rest of the world to see.
           
