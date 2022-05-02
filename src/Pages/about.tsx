@@ -94,10 +94,8 @@ export const About: React.FC = () => {
       <TextContainer>
         <Title>About</Title>
         <AboutContainer>
-          Lorem ipsum dolor sit amet. 
-          Qui galisum excepturi qui minima et voluptatem animi! Ut culpa consequatur est molestiae modi 
-          id minima animi At dolorem adipisci. Nam internos eius et quod cupiditate qui eveniet repellat 
-          ut nemo maiores et velit magni! 
+        Based in Toronto, Ontario servicing the Greater Toronto Area, Waheed Khimji's
+        focus is on creating stunning and professional portrait, lifestyle, fashion, and Landscape photography. 
         </AboutContainer>
 
           <AboutContainer>
