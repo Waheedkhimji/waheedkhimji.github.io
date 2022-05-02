@@ -94,16 +94,17 @@ export const About: React.FC = () => {
       <TextContainer>
         <Title>About</Title>
         <AboutContainer>
-        Based in Toronto, Ontario servicing the Greater Toronto Area, Waheed Khimji's
-        focus is on creating stunning and professional portrait, lifestyle, fashion, and Landscape photography. 
+        I am a sixteen year-old student who lives in Toronto, Ontario.
+        My background is East African, Although I am born in Canada. 
         </AboutContainer>
-
+        I am a very outdoorsy person. I play competivite Baseball and Vollyball. 
+        I love biking and I love exercise. I have been taking photos since I was 10, 
+        Taking photos has always been a big passion of mine, I love to capture moments in time 
+        and preserve them for the rest of the world to see. 
           <AboutContainer>
-          Qui quia consectetur eum atque dolorem et deleniti omnis et consequatur voluptatem At 
-          mollitia eligendi ex consequatur nesciunt eum quasi sunt. Et perferendis culpa in dolorem 
-          alias non quisquam cupiditate quo molestiae dolor aut autem voluptatem? Et laborum provident 
-          ut Quis minima sit molestias recusandae aut illum esse. Quo delectus dignissimos aut laboriosam 
-          porro vel quis nihil ut maiores accusantium est iure deleniti.
+         
+          
+
         </AboutContainer>
       </TextContainer>
       <ContactContainer>
